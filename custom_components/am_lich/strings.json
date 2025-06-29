@@ -1,0 +1,118 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Vietnamese Lunar Calendar",
+                "description": "No configuration needed. Just click Submit."
+            },
+            "add_event": {
+                "title": "Add Event",
+                "description": "Fill in the event details.",
+                "data": {
+                    "title": "Title",
+                    "type": "Type",
+                    "repeat": "Repeat",
+                    "lunar_day": "Lunar Day",
+                    "lunar_month": "Lunar Month",
+                    "lunar_year": "Lunar Year",
+                    "solar_day": "Solar Day",
+                    "solar_month": "Solar Month",
+                    "solar_year": "Solar Year",
+                    "description": "Description",
+                    "delete": "Delete"
+                }
+            },
+            "edit_event": {
+                "title": "Edit Event",
+                "description": "Edit the event details.",
+                "data": {
+                    "title": "Title",
+                    "type": "Type",
+                    "repeat": "Repeat",
+                    "lunar_day": "Lunar Day",
+                    "lunar_month": "Lunar Month",
+                    "lunar_year": "Lunar Year",
+                    "solar_day": "Solar Day",
+                    "solar_month": "Solar Month",
+                    "solar_year": "Solar Year",
+                    "description": "Description",
+                    "delete": "Delete"
+                }
+            },
+            "init": {
+                "title": "Manage Events",
+                "description": "Add, edit, or delete lunar/solar events.",
+                "menu": {
+                    "manage_events": "Manage events"
+                },
+                "data": {
+                    "event_id": "Event"
+                }
+            },
+            "manage_events": {
+                "title": "Event List",
+                "description": "Select an event to edit or add a new one.",
+                "add_new": "+ Add new event"
+            },
+            "confirm_delete": {
+                "title": "Delete Event",
+                "description": "Are you sure you want to delete this event?"
+            }
+        },
+        "error": {
+            "add_failed": "Failed to add event. Please try again.",
+            "edit_failed": "Failed to update event. Please try again.",
+            "not_found": "Event not found."
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "Manage Events",
+                "description": "Add, edit, or delete lunar/solar events.",
+                "menu": {
+                    "manage_events": "Manage events"
+                }
+            },
+            "manage_events": {
+                "title": "Event List",
+                "description": "Select an event to edit or add a new one.",
+                "add_new": "+ Add new event"
+            },
+            "add_event": {
+                "title": "Add Event",
+                "description": "Fill in the event details."
+            },
+            "edit_event": {
+                "title": "Edit Event",
+                "description": "Edit the event details."
+            },
+            "confirm_delete": {
+                "title": "Delete Event",
+                "description": "Are you sure you want to delete this event?"
+            }
+        },
+        "fields": {
+            "title": "Title",
+            "type": "Type",
+            "repeat": "Repeat",
+            "lunar_day": "Lunar Day",
+            "lunar_month": "Lunar Month",
+            "lunar_year": "Lunar Year",
+            "solar_day": "Solar Day",
+            "solar_month": "Solar Month",
+            "solar_year": "Solar Year",
+            "description": "Description",
+            "delete": "Delete"
+        },
+        "labels": {
+            "lunar": "Lunar",
+            "solar": "Solar",
+            "yearly": "Yearly",
+            "monthly": "Monthly",
+            "none": "None",
+            "add_new": "+ Add new event"
+        }
+    },
+    "title": "Vietnamese Lunar Calendar"
+}

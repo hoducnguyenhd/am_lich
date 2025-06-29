@@ -1,0 +1,118 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Âm Lịch Việt Nam",
+                "description": "Không cần cấu hình gì thêm. Chỉ cần bấm Gửi."
+            },
+            "add_event": {
+                "title": "Thêm sự kiện",
+                "description": "Nhập thông tin sự kiện.",
+                "data": {
+                    "title": "Tên sự kiện",
+                    "type": "Loại lịch",
+                    "repeat": "Lặp lại",
+                    "lunar_day": "Ngày âm",
+                    "lunar_month": "Tháng âm",
+                    "lunar_year": "Năm âm",
+                    "solar_day": "Ngày dương",
+                    "solar_month": "Tháng dương",
+                    "solar_year": "Năm dương",
+                    "description": "Mô tả",
+                    "delete": "Xóa"
+                }
+            },
+            "edit_event": {
+                "title": "Sửa sự kiện",
+                "description": "Chỉnh sửa thông tin sự kiện.",
+                "data": {
+                    "title": "Tên sự kiện",
+                    "type": "Loại lịch",
+                    "repeat": "Lặp lại",
+                    "lunar_day": "Ngày âm",
+                    "lunar_month": "Tháng âm",
+                    "lunar_year": "Năm âm",
+                    "solar_day": "Ngày dương",
+                    "solar_month": "Tháng dương",
+                    "solar_year": "Năm dương",
+                    "description": "Mô tả",
+                    "delete": "Xóa"
+                }
+            },
+            "init": {
+                "title": "Quản lý sự kiện",
+                "description": "Thêm, sửa hoặc xóa sự kiện âm/dương lịch.",
+                "menu": {
+                    "manage_events": "Quản lý sự kiện"
+                },
+                "data": {
+                    "event_id": "Sự kiện"
+                }
+            },
+            "manage_events": {
+                "title": "Danh sách sự kiện",
+                "description": "Chọn sự kiện để sửa hoặc thêm mới.",
+                "add_new": "+ Thêm sự kiện mới"
+            },
+            "confirm_delete": {
+                "title": "Xóa sự kiện",
+                "description": "Bạn có chắc chắn muốn xóa sự kiện này?"
+            }
+        },
+        "error": {
+            "add_failed": "Không thể thêm sự kiện. Vui lòng thử lại.",
+            "edit_failed": "Không thể cập nhật sự kiện. Vui lòng thử lại.",
+            "not_found": "Không tìm thấy sự kiện."
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "title": "Quản lý sự kiện",
+                "description": "Thêm, sửa hoặc xóa sự kiện âm/dương lịch.",
+                "menu": {
+                    "manage_events": "Quản lý sự kiện"
+                }
+            },
+            "manage_events": {
+                "title": "Danh sách sự kiện",
+                "description": "Chọn sự kiện để sửa hoặc thêm mới.",
+                "add_new": "+ Thêm sự kiện mới"
+            },
+            "add_event": {
+                "title": "Thêm sự kiện",
+                "description": "Nhập thông tin sự kiện."
+            },
+            "edit_event": {
+                "title": "Sửa sự kiện",
+                "description": "Chỉnh sửa thông tin sự kiện."
+            },
+            "confirm_delete": {
+                "title": "Xóa sự kiện",
+                "description": "Bạn có chắc chắn muốn xóa sự kiện này?"
+            }
+        },
+        "fields": {
+            "title": "Tên sự kiện",
+            "type": "Loại lịch",
+            "repeat": "Lặp lại",
+            "lunar_day": "Ngày âm",
+            "lunar_month": "Tháng âm",
+            "lunar_year": "Năm âm",
+            "solar_day": "Ngày dương",
+            "solar_month": "Tháng dương",
+            "solar_year": "Năm dương",
+            "description": "Mô tả",
+            "delete": "Xóa"
+        },
+        "labels": {
+            "lunar": "Âm",
+            "solar": "Dương",
+            "yearly": "Hàng năm",
+            "monthly": "Hàng tháng",
+            "none": "Không lặp",
+            "add_new": "+ Thêm sự kiện mới"
+        }
+    },
+    "title": "Âm Lịch Việt Nam"
+}
