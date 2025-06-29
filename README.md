@@ -18,13 +18,13 @@ Tiện ích giúp tra cứu **Âm Lịch**, **Dương Lịch**, và **Sự Kiệ
 #### Cách 1. Cài tự động qua HACS
 
 - Vào HACS -> Thêm kho lưu trữ tùy chỉnh:
-`https://github.com/smarthomeblack/amlich`
+`https://github.com/hoducnguyenhd/am_lich`
 
 ![Tra Cứu](image/8.png)
 
 - Sau đó tìm Âm Lịch Và Sự Kiện Việt Nam hoặc bấm vào nút bên dưới
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=smarthomeblack&repository=amlich)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=hoducnguyenhd&repository=amlich)
 
 - Tải về sau đó khởi động lại Home Assistant
 
