@@ -2,7 +2,7 @@
   "domain": "amlich",
   "name": "Âm Lịch Và Sự Kiện Việt Nam",
   "version": "2025.6.25",
-  "documentation": "https://github.com/smarthomeblack/amlich",
+  "documentation": "https://github.com/hoducnguyenhd/amlich",
   "requirements": [
     "icalendar",
     "python-dateutil",
@@ -10,7 +10,7 @@
     "pyluach",
     "lunarcalendar"
   ],
-  "codeowners": ["@smarthomeblack"],
+  "codeowners": ["@hoducnguyenhd"],
   "iot_class": "local_polling",
   "config_flow": true
 }
